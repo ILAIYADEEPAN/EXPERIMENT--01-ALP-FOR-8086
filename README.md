@@ -1,4 +1,4 @@
-![Add 8bit](https://github.com/user-attachments/assets/d3330d0c-496c-4499-a39b-54735ea60b69)# EXPERIMENT--01-ALP-FOR-8086
+## EXPERIMENT --01--ALP-FOR-8086
 Name :ILAIYADEEPAN K
 Roll no :212223230080
 Date of experiment : 10/03/2025
