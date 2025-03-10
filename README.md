@@ -94,14 +94,17 @@ hlt
 mov al, 80h
 mov bl, 90h
 sub al,bl
-hlt```
- 
-## Output  
-![Screenshot (138)](https://github.com/user-attachments/assets/7e5bf369-b0e6-4daf-a5eb-030e0606c517)
-
-
+hlt
 ```
+ 
+
+## Output 
+![Screenshot (138)](https://github.com/user-attachments/assets/54d14d0f-e8e4-4b1c-9982-f3913ec2a213)
+
+
 ## Multiplication alp
+```
+
 mov al, 80h
 mov bl, 90h
 mul bl
@@ -109,10 +112,11 @@ hlt
 ```
 
  ## Output  
-![Screenshot (139)](https://github.com/user-attachments/assets/d4bc7415-a512-4eb4-a0ba-8e8f956d54db)
+![Screenshot (139)](https://github.com/user-attachments/assets/85f1b8b0-ac1c-4554-ba4d-8c63ac3a489a)
 
-```
+
 ## Division alp 
+```
 
 mov al, 80h
 mov bl, 90h
@@ -122,7 +126,8 @@ hlt
 
 
 ## Output  
-![Screenshot (140)](https://github.com/user-attachments/assets/406345ec-d7a5-4c41-8ffd-cec7e5501482)
+![Screenshot (140)](https://github.com/user-attachments/assets/e481d9cf-fe7b-4348-ac59-524084455201)
+
 
 
 ## Result :
